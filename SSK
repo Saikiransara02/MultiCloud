@@ -1,2 +1,2 @@
-Import Multicloud
-Import AWScloud
+Import Azurecloud
+Import GCP
