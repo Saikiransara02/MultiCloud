@@ -1,1 +1,2 @@
-Import Awscloud
+Import Azurecloud
+Import GCPCloud
